@@ -19,7 +19,7 @@ $ cd <created_folder>
 - Make git pull of the whole project
 ```sh
 $ git init .
-$ git remote add origin https://github.com/mandeepbaliyan/virtual-assistant.git/
+$ git remote add origin https://github.com/mnbl/virtual-assistant.git/
 $ git pull origin master
 ```
 <!-- - Install pip3
